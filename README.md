@@ -1,5 +1,28 @@
 # 🤖 Human-Following Robot and Autonomous Car using Raspberry Pi Pico H
 
+## 📸 Project Showcase
+
+### 🎥 Video Demonstration
+Watch the working demo of our human-following robot in action:
+
+➡️ [Click to watch on YouTube](https://your-video-link-here.com)
+
+> Replace the above link with your actual video URL after uploading to YouTube or Google Drive.
+
+---
+
+### 🖼️ Robot Car Pictures
+
+Below are images of our robot prototype:
+
+![Front View of Robot Car](images/robot_front.jpg)
+
+![Side View of Robot Car](images/robot_side.jpg)
+
+> 📌 Put your images in a folder named `images/` inside your GitHub repo, or use direct image links like `https://i.imgur.com/yourImage.jpg`.
+
+---
+
 ## 🔍 Abstract
 
 This project presents a **low-cost autonomous robot car** that follows a human or object using a **Raspberry Pi Pico H** microcontroller. Equipped with **ultrasonic sensors** and **Bluetooth connectivity**, it detects obstacles, adjusts its motion, and can be controlled remotely through a mobile app.
@@ -96,7 +119,7 @@ The robot:
 
 ## 📚 References
 
-> A detailed list of references is available in the final section of the PDF report.
+> A detailed list of references is available in the final section of the project report PDF.
 
 ---
 
@@ -115,4 +138,3 @@ The robot:
 This project successfully demonstrates how a **Raspberry Pi Pico H** can be used to develop a **reactive human-following robot** suitable for retail environments. While current limitations exist, its modular and extensible design makes it ideal for future upgrades involving AI, voice control, and autonomous navigation.
 
 ---
-
