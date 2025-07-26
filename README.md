@@ -15,7 +15,8 @@ Watch the working demo of our human-following robot in action:
 
 Below are images of our robot prototype:
 
-![Front View of Robot Car](images/robot_front.jpg)
+![Front View of Robot Car](https://github.com/moyen-ahmed/follwing-robot-with-raspberry-pi-/blob/main/report/1753279231897.jpg?raw=true)
+![Front View of Robot Car]()
 
 ![Side View of Robot Car](images/robot_side.jpg)
 
