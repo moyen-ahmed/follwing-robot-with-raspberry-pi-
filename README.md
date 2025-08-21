@@ -2,7 +2,7 @@
 
 ## 📸 Project Showcase
 
-### 🎥 Video Demonstration
+### 🎥 Video Demonstrationer
 Watch the working demo of our human-following robot in action:
 
 ➡️ [Click to watch on YouTube](https://your-video-link-here.com)
